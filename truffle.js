@@ -1,8 +1,8 @@
 module.exports = {
   rpc: {
-    host: 'localhost',
+    host: '49.34.127.31',
     port: 8545,
-    gas: 4500000
+    gas: 6721975
   },
   migrations_directory: '.chipdb/migrations'
 }
