@@ -1,6 +1,6 @@
 module.exports = {
   rpc: {
-    host: 'contracts/MetaCoin.sol',
+    host: 'localhost',
     port: 8545,
     gas: 4500000
   },
