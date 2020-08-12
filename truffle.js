@@ -4,5 +4,5 @@ module.exports = {
     port: 8545,
     gas: 4500000
   },
-  migrations_directory: './migrations'
+  migrations_directory: '.chipdb/migrations'
 }
